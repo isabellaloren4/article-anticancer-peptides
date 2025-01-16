@@ -1,2 +1,4 @@
-# article-anticancer-peptides
-Article repository "In silico experimental evaluation method based on machine learning algorithms method for the prediction of anticancer peptides"
+# ***In silico*** **experimental evaluation method based on machine learning algorithms method for the prediction of anticancer peptides**
+---
+
+**Abstract:** Anticancer Peptides (ACPs) show potential in cancer therapy; however, their discovery comes with a high cost. *In silico* investigations utilizing machine learning methods are advancing automated approaches for discovery. Despite encouraging outcomes, there's a range of approaches across studies. In our research, we introduce a standardized framework for the literature, including an experimental evaluation method that assesses different prediction strategies. Our methodology combines 18 machine learning algorithms with 13 feature descriptors. Among these, Circular/catboost and CTD/gbc strategies demonstrated superior prediction accuracy. Additionally, in this study, it was observed that the performance of the strategies has a greater influence regarding the type of feature descriptor.
